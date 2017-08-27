@@ -1,0 +1,7 @@
+*.tar.gz
+*.data-*-of-*
+*.index
+*.meta
+/checkpoint
+/cifar-10-batches-py/
+/__pycache__/
